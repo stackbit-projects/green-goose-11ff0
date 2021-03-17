@@ -59,7 +59,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    subtitle: 'Emissão de NFe, NFCe'
+    subtitle: 'Emissão de NFe, NFCe e '
   - section_id: reviews
     type: section_reviews
     background: white
