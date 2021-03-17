@@ -48,10 +48,9 @@ sections:
       - title: Reduza seus custos com informatização.
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          O Sirius ERP, suporta e usa o PostgreSQL, o mais avançado Gerenciador
+          de Banco de Dados do Mundo e 100% free.
         actions:
           - label: Learn More
             url: /features
