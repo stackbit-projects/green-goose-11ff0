@@ -9,7 +9,7 @@ sections:
     content: |
       Sirius é a escolha perfeita para modernizar seus negócios.
     actions:
-      - label: Learn More
+      - label: Saiba mais
         url: /features
         style: primary
   - section_id: features
