@@ -24,7 +24,7 @@ sections:
           Com o Sirius ERP, suas emissões de notas fiscais eletrônicas irão
           muito mais rápidas.
         actions:
-          - label: Learn More
+          - label: Saiba mais
             url: /features
             style: secondary
             has_icon: true
