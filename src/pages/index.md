@@ -17,7 +17,7 @@ sections:
     background: gray
     title: Features
     features:
-      - title: The Best Feature of Your Services
+      - title: A mais rápida emissão de NFe.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
