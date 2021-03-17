@@ -59,7 +59,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    subtitle: A mais rápida emissão de NFe do mercado.
+    subtitle: 'Emissão de NFe, NFCe'
   - section_id: reviews
     type: section_reviews
     background: white
