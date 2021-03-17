@@ -21,7 +21,7 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          Com o Sirius ERP, suas emissões de notas fiscais eletrônicas irão
+          Com o Sirius ERP, suas emissões de notas fiscais eletrônicas serão
           muito mais rápidas.
         actions:
           - label: Saiba mais
