@@ -20,10 +20,9 @@ sections:
       - title: A mais rápida emissão de NFe.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Com o Sirius ERP, suas emissões de notas fiscais eletrônicas irão
+          muito mais rápidas.
         actions:
           - label: Learn More
             url: /features
