@@ -52,7 +52,7 @@ sections:
           O Sirius ERP, suporta e usa o PostgreSQL, o mais avançado Gerenciador
           de Banco de Dados do Mundo e 100% free.
         actions:
-          - label: Learn More
+          - label: Saiba mais
             url: /features
             style: secondary
             has_icon: true
