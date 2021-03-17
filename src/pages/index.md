@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Sirius ERP
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      Sirius é a escolha perfeita para modernizar seus negócios.
     actions:
       - label: Learn More
         url: /features
