@@ -19,7 +19,7 @@ sections:
         is_required: true
       - input_type: select
         name: Subject
-        label: Subject
+        label: Como ficou sabendo de nós.
         default_value: Please select
         options:
           - Error on the site
