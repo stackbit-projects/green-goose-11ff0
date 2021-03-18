@@ -20,7 +20,7 @@ sections:
       - input_type: select
         name: Subject
         label: Como ficou sabendo de nós.
-        default_value: Please select
+        default_value: Por favor selecione
         options:
           - Internet
           - Amigo indicou
