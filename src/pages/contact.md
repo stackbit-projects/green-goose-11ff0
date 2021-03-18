@@ -18,7 +18,7 @@ sections:
         label: Email
         is_required: true
       - input_type: select
-        name: subject
+        name: 'Como ficou sabendo de '
         label: Subject
         default_value: Please select
         options:
