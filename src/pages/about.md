@@ -1,8 +1,8 @@
 ---
 title: Sobre Nós
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  A RC Software atua no mercado desde 1998, tendo vasta experiência em
+  desenvolver soluções avançadas.
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
