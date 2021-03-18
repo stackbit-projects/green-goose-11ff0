@@ -24,7 +24,7 @@ sections:
         options:
           - Internet
           - Amigo indicou
-          - Other
+          - Outros
       - input_type: textarea
         name: message
         label: Mensagem
