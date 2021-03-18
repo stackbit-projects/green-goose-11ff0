@@ -23,7 +23,7 @@ sections:
         default_value: Please select
         options:
           - Internet
-          - Sponsorship
+          - Amigo indicou
           - Other
       - input_type: textarea
         name: message
