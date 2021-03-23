@@ -58,7 +58,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    subtitle: 'Emissão de NFe, NFCe com boleto.'
+    subtitle: 'Emissão de NFCe, NFe com boleto.'
   - section_id: reviews
     type: section_reviews
     background: white
